@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript and PHP
 - 💬 Ask me about [ React, JS, PHP, Laravel, HTML ]
 - ⚡ Some fact: I play LOL since 2012
+- I`m currently working on Dart Digital as Analyst Developer
 
 ![ThiagoSilvaMorato's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoSilvaMorato&show_icons=true&theme=radical)
 
