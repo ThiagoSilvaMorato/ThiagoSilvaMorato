@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript and PHP
+- 🌱 I’m currently learning Typescript and NodeJS
 - 💬 Ask me about [ React, JS, PHP, Laravel, HTML ]
 - ⚡ Some fact: I play LOL since 2012
 - I`m currently working on Dart Digital as Analyst Developer
